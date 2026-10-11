@@ -5,8 +5,8 @@
 // @description  In NeetCode's Monaco Vim insert mode, typing "jk" quickly acts like Escape (imap jk <Esc>)
 // @match        https://neetcode.io/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/danielbusnz-lgtm/neetcode-jk-escape/main/neetcode-jk-escape.user.js
-// @updateURL    https://raw.githubusercontent.com/danielbusnz-lgtm/neetcode-jk-escape/main/neetcode-jk-escape.user.js
+// @downloadURL  https://raw.githubusercontent.com/danielbusnz/neetcode-jk-escape/main/neetcode-jk-escape.user.js
+// @updateURL    https://raw.githubusercontent.com/danielbusnz/neetcode-jk-escape/main/neetcode-jk-escape.user.js
 // ==/UserScript==
 
 (function () {

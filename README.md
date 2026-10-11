@@ -15,7 +15,7 @@ inoremap jk <Esc>
    - Turn on **Allow User Scripts**.
    - On older versions without that toggle, turn on **Developer mode** (top right of `chrome://extensions`) instead.
 3. **Install the script.** Open this link and click **Install**:
-   <https://raw.githubusercontent.com/danielbusnz-lgtm/neetcode-jk-escape/main/neetcode-jk-escape.user.js>
+   <https://raw.githubusercontent.com/danielbusnz/neetcode-jk-escape/main/neetcode-jk-escape.user.js>
 4. **Turn on Vim mode in NeetCode.** Open any problem and click the **Vim** button above the editor.
 5. **Reload the NeetCode tab.** Scripts only load when a page loads.
 
